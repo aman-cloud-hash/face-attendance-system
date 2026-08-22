@@ -223,6 +223,8 @@ pip install -r requirements.txt
    face-attendance@smart-face-attendance-506310.iam.gserviceaccount.com
    ```
 
+![Google Cloud Service Account Console Configuration](docs/images/google_cloud_service_account.png)
+
 ---
 
 ## 8. Step-by-Step User Guide
