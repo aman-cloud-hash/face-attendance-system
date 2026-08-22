@@ -8,6 +8,8 @@ A high-performance, real-time **AI / Machine Learning and Computer Vision** Atte
 
 The **Smart Face Attendance System** is an AI/ML Computer Vision engineering project designed for automated, contact-free classroom and workplace attendance logging.
 
+![Real-Time Attendance UI with Active Liveness Verification](docs/images/realtime_attendance_ui.png)
+
 ### Core Objectives:
 - **Biometric Face Recognition**: Uses deep 512-dimensional ArcFace embeddings with vectorized Cosine Similarity matching against registered student prototypes.
 - **Active Anti-Spoofing Liveness Detection**: Prevents photo and video replay attacks by calculating Eye Aspect Ratio (EAR) from 106 2D facial landmarks and enforcing an active human blink challenge.
@@ -236,6 +238,8 @@ Test Google Cloud connectivity and spreadsheet permissions:
 ```powershell
 python scripts/test_google_sheets.py
 ```
+
+![Google Sheets Real-Time Attendance Cloud Sync](docs/images/google_sheets_sync.png)
 
 ---
 
