@@ -1,0 +1,10 @@
+metric_type,threshold,far_percent,frr_percent,accuracy_percent,avg_detection_latency_ms,avg_recognition_latency_ms,detection_fps
+threshold_evaluation,0.3,0.0,0.0,100.0,28.14,0.0164,35.54
+threshold_evaluation,0.35,0.0,0.0,100.0,28.14,0.0164,35.54
+threshold_evaluation,0.4,0.0,0.0,100.0,28.14,0.0164,35.54
+threshold_evaluation,0.45,0.0,0.0,100.0,28.14,0.0164,35.54
+threshold_evaluation,0.5,0.0,0.0,100.0,28.14,0.0164,35.54
+threshold_evaluation,0.55,0.0,0.0,100.0,28.14,0.0164,35.54
+threshold_evaluation,0.6,0.0,0.0,100.0,28.14,0.0164,35.54
+threshold_evaluation,0.65,0.0,0.0,100.0,28.14,0.0164,35.54
+threshold_evaluation,0.7,0.0,0.0,100.0,28.14,0.0164,35.54
